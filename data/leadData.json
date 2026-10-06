@@ -1,0 +1,73 @@
+{
+  "termLifeLead": {
+    "firstName": "Gaurav",
+    "lastName": "Sonawane",
+    "company": "Individual",
+    "email": "gaurav.sonawane@testmail.com",
+    "phone": "+91-9876543210",
+    "leadSource": "Web",
+    "insuranceType": "Term Life Insurance",
+    "coverage": "10000000",
+    "leadStatus": "New"
+  },
+
+  "wholeLifeLead": {
+    "firstName": "Priya",
+    "lastName": "Chatterjee",
+    "company": "Individual",
+    "email": "priya.c@testmail.com",
+    "phone": "+91-8765432109",
+    "leadSource": "Phone Enquiry",
+    "insuranceType": "Whole Life Insurance",
+    "coverage": "5000000",
+    "premiumFrequency": "Monthly",
+    "leadStatus": "Working"
+  },
+
+  "statusWorkflowLead": {
+    "firstName": "Amit",
+    "lastName": "Patel",
+    "company": "Patel Enterprises",
+    "email": "amit.p@testmail.com",
+    "phone": "+91-7654321098",
+    "leadSource": "Partner Referral",
+    "insuranceType": "ULIP",
+    "coverage": "50000000",
+    "premiumFrequency": "Monthly",
+    "leadStatus": "New"
+  },
+
+    
+"qualifiedLead": {
+  "firstName": "Sunita",
+  "lastName": "Verma",
+  "company": "Individual",
+  "email": "sunita.v@testmail.com",
+  "phone": "+91-6543210987",
+  "leadSource": "Advertisement",
+  "insuranceType": "Term Life Insurance",
+  "coverage": "20000000",
+  "premiumFrequency": "Monthly",
+  "leadStatus": "Qualified"
+},
+
+  "opportunityData": {
+    "opportunityName": "Sunita Verma - Term Life 2Cr",
+    "closeDate": "31/12/2026",
+    "stage": "Proposal/Price Quote",
+    "amount": "20000000"
+  },
+
+ "highValueOpportunity": {
+  "opportunityName": "Dr Amit Patel - ULIP 5Cr",
+  "accountName": "Patel Enterprises",
+  "closeDate": "31/03/2027",
+  "stage": "Value Proposition",
+  "amount": "50000000",
+  "insuranceType": "ULIP",
+  "leadSource": "Partner Referral",
+  "probability": "70",
+  "description": "High value ULIP - 5Cr coverage"
+}
+
+}

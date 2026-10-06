@@ -1,0 +1,16 @@
+# Dependencies & build output
+node_modules/
+dist/
+
+# Test reports & artifacts
+allure-report/
+allure-results/
+test-results/
+playwright-report/
+/*.png
+
+# Secrets & session state — never commit
+.env
+.env.*
+!.env.example
+auth/storageState.json
